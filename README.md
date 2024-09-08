@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agata</h1>
+<h1 align="center">Hi 👋, I'm Ag</h1>
 <h3 align="center">a curious coder who loves to learn</h3>
 
 - 🔭 I’m currently working on **my first video game and a few smaller projects**
