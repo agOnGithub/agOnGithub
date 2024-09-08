@@ -32,7 +32,7 @@
 ## :muscle: Things I am challenging myself with:
 - Cycling everyday
 - Coding on a regular basis
-- Learning new technilogies
+- Learning new technologies
 - Following online courses
 
 <h3 align="left">Connect with me:</h3>
