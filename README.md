@@ -28,6 +28,7 @@
 - Data Analysis with **Python**
 - Machine Learning
 - Deep Learning
+- Arduino
 
 ## :muscle: Things I am challenging myself with:
 - Cycling everyday
